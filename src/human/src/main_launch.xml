@@ -1,0 +1,3 @@
+<launch>
+  <node package="human" executable="human" name="human_node"/>
+</launch>

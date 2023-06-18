@@ -1,0 +1,4 @@
+string c
+int32 key
+---
+bool received

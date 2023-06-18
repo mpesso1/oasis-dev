@@ -1,0 +1,4 @@
+# ignore everything but src folder
+build
+install
+log
